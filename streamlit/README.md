@@ -1,4 +1,4 @@
 - Create a new virtual environment with python <=3.9 . 3.10 is not supported as of this repo's creation.
-- Install streamlit in the environment with `pip install streamlit`.
+- Install streamlit and all its requirements in the environment with `pip install -r requirements.txt`.
 - Test streamlit installation using `streamlit hello`
 - Run streamlit programs using `streamlit run <file>`
